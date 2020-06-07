@@ -18,7 +18,6 @@
 #include <wincrypt.h>
 
 #include "sqlite3.h"
-#include "httplib.h"
 
 
 sqlite3 *open_br_db(char *__temp_path) {
